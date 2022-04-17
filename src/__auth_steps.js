@@ -8,6 +8,8 @@
     7. attach form field handler and form submit handler
     8. npm install --save react-firebase-hooks
     9. useCreateUserWithEmailAndPassword from react-firebase-hooks
+    10. if user is created redirect to the expected page(using useNavigate())
+    11. useSignInWithEmailAndPassword for sign in
 */
 
 
