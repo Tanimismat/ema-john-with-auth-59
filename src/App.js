@@ -28,8 +28,7 @@ function App() {
           <RequireAuth>
             <Shipment />
           </RequireAuth>
-        }>
-        </Route>
+        }></Route>
         <Route path='/about' element={<About></About>}></Route>
         <Route path='/login' element={<Login />} />
         <Route path='/signup' element={<Signup />} />
